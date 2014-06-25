@@ -237,7 +237,6 @@
 		B7D273111822F4AA0054849B /* CCBLocalizationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = B7D273041822F4AA0054849B /* CCBLocalizationManager.h */; };
 		B7D273121822F4AA0054849B /* CCBLocalizationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D273051822F4AA0054849B /* CCBLocalizationManager.m */; };
 		B7D273131822F4AA0054849B /* CCBReader.h in Headers */ = {isa = PBXBuildFile; fileRef = B7D273061822F4AA0054849B /* CCBReader.h */; };
-		B7D273141822F4AA0054849B /* CCBReader.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D273071822F4AA0054849B /* CCBReader.m */; };
 		B7D273151822F4AA0054849B /* CCBSequence.h in Headers */ = {isa = PBXBuildFile; fileRef = B7D273081822F4AA0054849B /* CCBSequence.h */; };
 		B7D273161822F4AA0054849B /* CCBsequence.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D273091822F4AA0054849B /* CCBsequence.m */; };
 		B7D273171822F4AA0054849B /* CCBSequenceProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = B7D2730A1822F4AA0054849B /* CCBSequenceProperty.h */; };
@@ -1576,7 +1575,6 @@
 				502C6C6D0FB87970002BF3C2 /* CCParallaxNode.m in Sources */,
 				50CB3B0F100AC43A00B7A750 /* CCActionManager.m in Sources */,
 				B7E775D118527EF0004221AA /* CCAppDelegate.m in Sources */,
-				B7D273141822F4AA0054849B /* CCBReader.m in Sources */,
 				B7D2730E1822F4AA0054849B /* CCBAnimationManager.m in Sources */,
 				50F29F5610204FD60046CA73 /* base64.c in Sources */,
 				B7705FD91831A07B0043CC67 /* OALAudioTrackNotifications.m in Sources */,
